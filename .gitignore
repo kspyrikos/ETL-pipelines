@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+aws
 AWS.txt
 Pipfile
 Pipfile.lock
